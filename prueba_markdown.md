@@ -23,3 +23,5 @@ git commit
 `#0969DA`
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+[Contribution guidelines for this project](CONTRIBUTING.md)
