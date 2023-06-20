@@ -15,6 +15,7 @@
 Some basic Git commands are:
 ```
 git status
+git log
 git add
 git commit
 ```
