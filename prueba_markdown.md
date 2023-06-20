@@ -18,7 +18,7 @@ Some basic Git commands are:
 git status
 git log --graph
 git add
-git commit
+git commit -a
 ```
 
 `rgb(9, 105, 218)`
